@@ -1,0 +1,46 @@
+.listTarefas li{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+  margin: 10px;
+  padding: 0 10px;
+  height: 10%;
+  background-color: #EEEEEE;
+  color:#541212;
+}
+
+li:hover{
+  box-shadow: 0px 0px 0px 2px #890F0D;
+}
+
+ul li:hover{
+  color:#9b0e0b;
+  font-weight: 700;
+}
+
+.btn{
+  cursor: pointer;
+}
+
+.btn-items, .btn{
+  display: flex;
+  font-size: 30px;
+  margin: 0 5px;
+}
+
+.btn-items:hover{
+  color:#ffff;
+}
+
+.btn-put, .btn-delete, .btn-items, li{
+  transition: 250ms;
+}
+
+.btn-put:hover{
+  color:#8B9A46;
+}
+
+.btn-delete:hover{
+  color:#9b0e0b;
+}

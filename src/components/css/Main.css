@@ -1,0 +1,11 @@
+.main{
+  color:#ffff;
+  margin: 50px auto;
+  max-width: 500px;
+}
+
+.main h1{
+  font-family: 'Send Flowers', cursive;
+  font-size: 50px;
+  text-align: center;
+}

@@ -1,0 +1,33 @@
+.form{
+  margin-top:30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form input[type="text"]{
+  border: none;
+  height:40px;
+  margin: 0px 5px;
+  padding: 0 10px;
+  font-size: 25px;
+  color:#541212;
+  min-width: 80%;
+}
+
+.form button[type="submit"]{
+  margin: 0px 5px;
+  background-color: #541212;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  transition:300ms;
+  font-size: 25px;
+}
+
+button[type="submit"]:hover{
+  color:#EEEEEE;
+  background-color:#9b0e0b;
+  border: 1px solid white;
+  box-shadow: 0px 0px 200px 20px #9b0e0b;
+}

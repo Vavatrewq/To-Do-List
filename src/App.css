@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+html body{
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+  background-color: #0F0E0E;
+  background-attachment: fixed;
+  background-image: url(./components/img/box/riccardo-mion-cgmteTlwgdE-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  position: absolute;
+}
