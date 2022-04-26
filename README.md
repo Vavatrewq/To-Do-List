@@ -2,7 +2,7 @@
 
 <h2 align="center">Projeto Desenvolvido no curso Udemy Luiz Otávio Miranda.</h2>
 
-<h2 align="center">Link do Projeto: <a href="https://sage-gaufre-55423b.netlify.app">Todo-List-React</a></h2>
+<h2 align="center">Link do Projeto: <a href="https://sage-gaufre-55423b.netlify.app" target="_black">Todo-List-React</a></h2>
 
 <h2>Objetivo:</h2>
 <p>Desenvolver aplicação em React Lista de Tarefas para treinar meu conhecimento.</p>
